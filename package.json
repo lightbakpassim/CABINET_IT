@@ -1,0 +1,19 @@
+{
+  "name": "cabinet-it",
+  "version": "1.0.0",
+  "description": "Cabinet IT — Conseil, Intégration & Formation · Lomé, Togo",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "2.17.3",
+    "vue": "^2.6.14",
+    "vue-server-renderer": "^2.6.14",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
