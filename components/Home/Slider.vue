@@ -9,7 +9,7 @@
           <div class="row">
             <div class="col-md-12">
               <div class="layer-1 wow fadeInUp" data-wow-delay="0.3s">
-                <span class="title1">Votre partenaire transformation numérique.</span>
+                <span class="title1">Votre partenaire en transformation numérique.</span>
                 <h3 class="title2">
                   <span class="color">Cabinet IT</span> — Conseil, Intégration<br />
                   et Formation pour votre entreprise.
@@ -20,7 +20,7 @@
               </div>
               <div class="layer-3 wow fadeInUp" data-wow-delay="0.7s">
                 <nuxt-link to="/services" class="ready-btn left-btn">Nos Services</nuxt-link>
-                <nuxt-link to="/contact" class="ready-btn right-btn">Demander un devis</nuxt-link>
+                <nuxt-link to="/contact" class="ready-btn right-btn">Devis</nuxt-link>
               </div>
             </div>
           </div>

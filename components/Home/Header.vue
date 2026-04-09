@@ -38,7 +38,7 @@
           </div>
           <div class="col-md-9 col-sm-9">
             <div class="header-right-link">
-              <nuxt-link class="s-menu" to="/contact">Demander un devis</nuxt-link>
+              <nuxt-link class="s-menu" to="/contact">Devis</nuxt-link>
             </div>
             <nav class="navbar navbar-default">
               <div class="collapse navbar-collapse" id="navbar-example">
